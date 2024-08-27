@@ -278,8 +278,8 @@ minetest.register_node("default:sign_yard", {
 		"sign.png",
 		"sign.png",
 		"sign.png",
-		"sign_back.png",
-		"sign.png"
+		"sign.png",
+		"sign.png",
 	},
 	inventory_image = "sign.png",
 	wield_image = "sign.png",
@@ -325,8 +325,8 @@ minetest.register_node("default:sign_on_wall", {
 		"sign_wall.png",
 		"sign_wall.png",
 		"sign_wall.png",
-		"sign_wall_back.png",
-		"sign_wall.png"
+		"sign_wall.png",
+		"sign_wall.png",
 	},
 	inventory_image = "sign_wall.png",
 	wield_image = "sign_wall.png",
